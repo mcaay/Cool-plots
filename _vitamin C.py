@@ -24,7 +24,7 @@ values = values[::-1]
 # RDA for adult males is 90 mg
 percentages_RDA = values / 90 * 100
 # Likely the most optimal daily intake is 200 mg
-percentages_200mg = values / 200 * 100
+# percentages_200mg = values / 200 * 100
 
 # x-axis labels
 x = ['1 medium\nred bell pepper', '1 medium\norange', '1/2 medium\nbroccoli', '1/2 cup\nstrawberries', '0.25 kg / 0.55 lbs\npotatoes', '1 medium\ntomato', '1 medium\nbanana', '1 medium\napple', '1/2 cup\nblueberries']
@@ -34,10 +34,11 @@ x = ['1 medium\nred bell pepper', '1 medium\norange', '1/2 medium\nbroccoli', '1
 plt.figure(0, figsize=(13, 8))
 plt.title('Vitamin C in some common foods', fontsize=20)
 plt.ylabel('% RDA (Recommended Daily Allowance)', fontsize=16)
-plt.ylim(0, 212)   ################################### ADJUSTABLE
+# y-axis range
+plt.ylim(0, 212)   
 # the red line marking 100% 
 plt.axhline(y=100, linewidth=1, color='r', linestyle='--')
-scores = plt.bar(x, percentages_RDA, color='#0080dd') ################# ADJUSTABLE
+scores = plt.bar(x, percentages_RDA, color='#0080dd') 
 
 # show percentages above bars
 for score in scores:
