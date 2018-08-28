@@ -1,8 +1,31 @@
-################################################
-### values here are per 500 kcal of the food ###
-################################################
-
-################################################
+######################################################
+### Coverage of nutritional bases by staple foods* ###
+######################################################
+# *all vitamins, minerals, omega 6 and omega 3 
+# fatty acids except vitamins A, C, E, K (found 
+# mostly in fruits and vegetables), vitamin D 
+# (sun vitamin), sodium and iodine (found in salt)
+######################################################
+# This program calculates which staple foods cover 
+# the highest % of these nutritional bases judging
+# by 500 kcal of each food. The results can be 
+# obtained in many versions:
+# a) 1 food ranking
+# b) 2 foods combined ranking
+# c) 3 foods combined ranking
+# or also:
+# 1) omnivore foods options
+# 2) vegetarian options
+# 3) vegan options
+# 4) no soy options
+# 5) any combination of food groups
+# Then it is also possible to create graphs and save
+# them into a .png format.
+######################################################
+# Of interest are lines 120-133, where you choose
+# which food groups should be included and lines
+# 446-477, where I placed a control panel. 
+######################################################
 # worth mentioning:
 # salmon has 73% vit E
 # sweet potatoes have 458% vit A
@@ -12,7 +35,7 @@
 # eggs have 54% vit A
 # swiss cheese 41% vit A
 # cheddar cheese 46% vit A
-################################################
+######################################################
 
 
 import numpy as np
