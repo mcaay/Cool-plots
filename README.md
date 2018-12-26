@@ -19,21 +19,14 @@ I used Recommended Daily Allowance for men - 90 mg (for women it is less - 75 mg
 
 Values in grams (peel not accounted for):
 
-1 medium red bell pepper - 119 g
-
-1 medium orange - 131 g
-
-1/2 medium broccoli - 90 g
-
-1/2 cup strawberries - 76 g
-
-1 medium tomato - 123 g
-
-1 medium banana - 118 g
-
-1 medium apple - 182 g
-
-1/2 cup blueberries - 74 g
+- 1 medium red bell pepper - 119 g
+- 1 medium orange - 131 g
+- 1/2 medium broccoli - 90 g
+- 1/2 cup strawberries - 76 g
+- 1 medium tomato - 123 g
+- 1 medium banana - 118 g
+- 1 medium apple - 182 g
+- 1/2 cup blueberries - 74 g
 
 
 [Screenshot with the exact names on Cronometer](https://imgur.com/a/RCP39FR)
