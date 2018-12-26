@@ -1,4 +1,4 @@
-# Vitamin C
+# Vitamin C https://i.redd.it/228fi1p0a1v01.png
 Free time project - data visualisation training combined with my interest for diet. Reddit post: https://www.reddit.com/r/dataisbeautiful/comments/8fyu1i/vitamin_c_in_some_common_foods_oc/
 
 ---------
