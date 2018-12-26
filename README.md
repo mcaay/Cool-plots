@@ -9,8 +9,6 @@ Sources: [Cronometer.com](https://cronometer.com/), [RDA](https://ods.od.nih.gov
 
 Tools: Python with Matplotlib library for plotting, Inkscape for preparing images
 
-[Code](https://github.com/mcaay/Cool-plots/blob/master/_vitamin%20C.py)
-
 -----------------
 
 I handpicked particular foods based on my research and experience. These are either foods which allow you to get your vitamin C most easily (red bell peppers, oranges, broccoli) or popular foods that have less vitamin C than most people would expect (tomatoes, apples, blueberries). 
